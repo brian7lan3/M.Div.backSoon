@@ -2,6 +2,7 @@
 // 2011-01-30 <jc@wippler.nl>
 //
 // License: GPLv2
+// ENC28J60
 
 #include <EtherCard.h>
 
